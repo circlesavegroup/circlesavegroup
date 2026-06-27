@@ -1,0 +1,6 @@
+{
+  "name": "CircleSave",
+  "description": "A beautifully designed, interactive landing page and simulator for CircleSave - a smarter, fairer, and fully automated group savings circle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
